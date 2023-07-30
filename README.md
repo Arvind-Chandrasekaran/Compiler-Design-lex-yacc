@@ -1,5 +1,5 @@
 # Compiler-Design-lex-yacc
-Lex and Yacc Programming for compiler Design
+Lex and Yacc Programming for Compiler Design
 
 CMD Commands to Compile and Run. 
 
